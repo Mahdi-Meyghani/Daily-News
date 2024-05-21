@@ -6,7 +6,6 @@ API_KEY = "8982b46221af4410ba4a67eb9a0a71a9"
 topic = "AI"
 url = ("https://newsapi.org/v2/everything?"
        f"q={topic}&"
-       "from=2024-05-17&"
        "sortBy=popularity&"
        "language=en&"
        "apiKey=8982b46221af4410ba4a67eb9a0a71a9")
